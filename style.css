@@ -1,0 +1,53 @@
+html {
+  background-image: url(img/WebBackground2.png);
+}
+
+body {
+  background-color: lavender;
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+li {
+  color: purple;
+}
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: brown;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+.ul {
+  margin-left: 150px;
+}
+
+.h2 {
+  margin-left: 170px;
+}
+
+.h20 {
+  margin-left: 150px;
+}
+
+.Botw {
+  padding-left: 95px;
+}
+
+h1 {
+  color: blueviolet;
+}
